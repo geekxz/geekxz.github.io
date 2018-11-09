@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>萌兔子QAQ</title>
+  
+  <subtitle>萌兔子QAQ</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://geekxz.github.io/"/>
+  <updated>2018-11-05T03:12:27.000Z</updated>
+  <id>https://geekxz.github.io/</id>
+  
+  <author>
+    <name>geekxz</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Java IO 知识整理</title>
+    <link href="https://geekxz.github.io/2018/11/05/hou-duan/java/java-io-zhi-shi-zheng-li/"/>
+    <id>https://geekxz.github.io/2018/11/05/hou-duan/java/java-io-zhi-shi-zheng-li/</id>
+    <published>2018-11-05T03:30:00.000Z</published>
+    <updated>2018-11-05T03:12:27.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;各IO类关系梳理&quot;&gt;&lt;a href=&quot;#各IO类关系梳理&quot; class=&quot;headerlink&quot; title=&quot;各IO类关系梳理&quot;&gt;&lt;/a&gt;各IO类关系梳理&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;InputStream: Java
+        
+      
+    
+    </summary>
+    
+      <category term="后端" scheme="https://geekxz.github.io/categories/%E5%90%8E%E7%AB%AF/"/>
+    
+    
+      <category term="Java" scheme="https://geekxz.github.io/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java面向对象设计之责任链模式</title>
+    <link href="https://geekxz.github.io/2018/11/04/ruan-jian-she-ji/she-ji-mo-shi/java-mian-xiang-dui-xiang-she-ji-zhi-ze-ren-lian-mo-shi/"/>
+    <id>https://geekxz.github.io/2018/11/04/ruan-jian-she-ji/she-ji-mo-shi/java-mian-xiang-dui-xiang-she-ji-zhi-ze-ren-lian-mo-shi/</id>
+    <published>2018-11-04T14:00:00.000Z</published>
+    <updated>2018-11-05T03:12:27.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;模式动机&quot;&gt;&lt;a href=&quot;#模式动机&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="软件设计" scheme="https://geekxz.github.io/categories/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+      <category term="Java" scheme="https://geekxz.github.io/tags/Java/"/>
+    
+      <category term="设计模式" scheme="https://geekxz.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript之再学习</title>
+    <link href="https://geekxz.github.io/2018/10/30/qian-duan/javascript-zhi-zai-xue-xi/"/>
+    <id>https://geekxz.github.io/2018/10/30/qian-duan/javascript-zhi-zai-xue-xi/</id>
+    <published>2018-10-29T16:30:00.000Z</published>
+    <updated>2018-11-05T03:12:27.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;概览&quot;&gt;&lt;a href=&quot;#概览&quot; class=&quot;headerlink&quot; title=&quot;概览&quot;&gt;&lt;/a&gt;概览&lt;/h2&gt;&lt;p&gt;JavaScript 是一种面向对象的动态语言，它包含类型、运算符、标准内置（ built-in）对象和方法。它的语法来源于 Java 和
+        
+      
+    
+    </summary>
+    
+      <category term="前端" scheme="https://geekxz.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="JavaScript" scheme="https://geekxz.github.io/tags/JavaScript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java面向对象设计之单例模式</title>
+    <link href="https://geekxz.github.io/2018/10/29/ruan-jian-she-ji/she-ji-mo-shi/java-mian-xiang-dui-xiang-she-ji-zhi-dan-li-mo-shi/"/>
+    <id>https://geekxz.github.io/2018/10/29/ruan-jian-she-ji/she-ji-mo-shi/java-mian-xiang-dui-xiang-she-ji-zhi-dan-li-mo-shi/</id>
+    <published>2018-10-29T15:30:00.000Z</published>
+    <updated>2018-11-05T03:12:27.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;模式动机&quot;&gt;&lt;a href=&quot;#模式动机&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="软件设计" scheme="https://geekxz.github.io/categories/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+      <category term="Java" scheme="https://geekxz.github.io/tags/Java/"/>
+    
+      <category term="设计模式" scheme="https://geekxz.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java异常知识汇总</title>
+    <link href="https://geekxz.github.io/2018/10/28/hou-duan/java/java-yi-chang-zhi-shi-hui-zong/"/>
+    <id>https://geekxz.github.io/2018/10/28/hou-duan/java/java-yi-chang-zhi-shi-hui-zong/</id>
+    <published>2018-10-27T16:30:00.000Z</published>
+    <updated>2018-11-05T03:12:27.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;h3 id=&quot;为什么要使用异常&quot;&gt;&lt;a href=&quot;#为什么要使用异常&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="后端" scheme="https://geekxz.github.io/categories/%E5%90%8E%E7%AB%AF/"/>
+    
+    
+      <category term="Java" scheme="https://geekxz.github.io/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>你需要知道的Java枚举知识</title>
+    <link href="https://geekxz.github.io/2018/10/27/hou-duan/java/ni-xu-yao-zhi-dao-de-java-mei-ju-zhi-shi/"/>
+    <id>https://geekxz.github.io/2018/10/27/hou-duan/java/ni-xu-yao-zhi-dao-de-java-mei-ju-zhi-shi/</id>
+    <published>2018-10-27T15:20:00.000Z</published>
+    <updated>2018-11-05T03:12:27.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;概述&quot;&gt;&lt;a href=&quot;#概述&quot; class=&quot;headerlink&quot; title=&quot;概述&quot;&gt;&lt;/a&gt;概述&lt;/h2&gt;&lt;h3 id=&quot;定义&quot;&gt;&lt;a href=&quot;#定义&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="后端" scheme="https://geekxz.github.io/categories/%E5%90%8E%E7%AB%AF/"/>
+    
+    
+      <category term="Java" scheme="https://geekxz.github.io/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java集合框架知识整理</title>
+    <link href="https://geekxz.github.io/2018/10/24/hou-duan/java/java-ji-he-kuang-jia-zhi-shi-zheng-li/"/>
+    <id>https://geekxz.github.io/2018/10/24/hou-duan/java/java-ji-he-kuang-jia-zhi-shi-zheng-li/</id>
+    <published>2018-10-24T15:10:00.000Z</published>
+    <updated>2018-11-05T03:12:27.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Java集合框架主要由&lt;code&gt;Collection&lt;/code&gt;和&lt;code&gt;Map&lt;/code&gt;两个根接口及其子接口、实现类组成。&lt;/p&gt;
+&lt;h2 id=&quot;集合类关系梳理&quot;&gt;&lt;a href=&quot;#集合类关系梳理&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="后端" scheme="https://geekxz.github.io/categories/%E5%90%8E%E7%AB%AF/"/>
+    
+    
+      <category term="Java" scheme="https://geekxz.github.io/tags/Java/"/>
+    
+      <category term="UML" scheme="https://geekxz.github.io/tags/UML/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>UML各类关系介绍</title>
+    <link href="https://geekxz.github.io/2018/10/22/ruan-jian-she-ji/uml-ge-lei-guan-xi-jie-shao/"/>
+    <id>https://geekxz.github.io/2018/10/22/ruan-jian-she-ji/uml-ge-lei-guan-xi-jie-shao/</id>
+    <published>2018-10-22T01:00:00.000Z</published>
+    <updated>2018-11-05T03:12:27.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;继承关系（generalization）&quot;&gt;&lt;a href=&quot;#继承关系（generalization）&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="软件设计" scheme="https://geekxz.github.io/categories/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+      <category term="Java" scheme="https://geekxz.github.io/tags/Java/"/>
+    
+      <category term="面向对象编程" scheme="https://geekxz.github.io/tags/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B/"/>
+    
+      <category term="UML" scheme="https://geekxz.github.io/tags/UML/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>面向对象编程的理解</title>
+    <link href="https://geekxz.github.io/2018/10/21/bian-cheng-zhi-dao/mian-xiang-dui-xiang-bian-cheng-de-li-jie/"/>
+    <id>https://geekxz.github.io/2018/10/21/bian-cheng-zhi-dao/mian-xiang-dui-xiang-bian-cheng-de-li-jie/</id>
+    <published>2018-10-20T16:30:00.000Z</published>
+    <updated>2018-11-05T03:12:27.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;面向过程和面向对象&quot;&gt;&lt;a href=&quot;#面向过程和面向对象&quot; class=&quot;headerlink&quot; title=&quot;面向过程和面向对象&quot;&gt;&lt;/a&gt;面向过程和面向对象&lt;/h2&gt;&lt;h3 id=&quot;面向过程思想概述&quot;&gt;&lt;a href=&quot;#面向过程思想概述&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="编程之道" scheme="https://geekxz.github.io/categories/%E7%BC%96%E7%A8%8B%E4%B9%8B%E9%81%93/"/>
+    
+    
+      <category term="Java" scheme="https://geekxz.github.io/tags/Java/"/>
+    
+      <category term="面向对象编程" scheme="https://geekxz.github.io/tags/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java面向对象设计之建造者模式</title>
+    <link href="https://geekxz.github.io/2018/10/20/ruan-jian-she-ji/she-ji-mo-shi/java-mian-xiang-dui-xiang-she-ji-zhi-jian-zao-zhe-mo-shi/"/>
+    <id>https://geekxz.github.io/2018/10/20/ruan-jian-she-ji/she-ji-mo-shi/java-mian-xiang-dui-xiang-she-ji-zhi-jian-zao-zhe-mo-shi/</id>
+    <published>2018-10-20T07:55:00.000Z</published>
+    <updated>2018-11-05T03:12:27.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;一、模式动机&quot;&gt;&lt;a href=&quot;#一、模式动机&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="软件设计" scheme="https://geekxz.github.io/categories/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+      <category term="Java" scheme="https://geekxz.github.io/tags/Java/"/>
+    
+      <category term="设计模式" scheme="https://geekxz.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java面向对象设计之外观模式</title>
+    <link href="https://geekxz.github.io/2018/10/18/ruan-jian-she-ji/she-ji-mo-shi/java-mian-xiang-dui-xiang-she-ji-zhi-wai-guan-mo-shi/"/>
+    <id>https://geekxz.github.io/2018/10/18/ruan-jian-she-ji/she-ji-mo-shi/java-mian-xiang-dui-xiang-she-ji-zhi-wai-guan-mo-shi/</id>
+    <published>2018-10-18T14:55:00.000Z</published>
+    <updated>2018-11-05T03:12:27.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;一、模式定义&quot;&gt;&lt;a href=&quot;#一、模式定义&quot; class=&quot;headerlink&quot; title=&quot;一、模式定义&quot;&gt;&lt;/a&gt;一、模式定义&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;外观模式&lt;/strong&gt;(&lt;code&gt;Facade
+        
+      
+    
+    </summary>
+    
+      <category term="软件设计" scheme="https://geekxz.github.io/categories/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+      <category term="Java" scheme="https://geekxz.github.io/tags/Java/"/>
+    
+      <category term="设计模式" scheme="https://geekxz.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java面向对象设计之中介者模式</title>
+    <link href="https://geekxz.github.io/2018/10/17/ruan-jian-she-ji/she-ji-mo-shi/java-mian-xiang-dui-xiang-she-ji-zhi-zhong-jie-zhe-mo-shi/"/>
+    <id>https://geekxz.github.io/2018/10/17/ruan-jian-she-ji/she-ji-mo-shi/java-mian-xiang-dui-xiang-she-ji-zhi-zhong-jie-zhe-mo-shi/</id>
+    <published>2018-10-17T15:40:00.000Z</published>
+    <updated>2018-11-05T03:12:27.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;一、模式动机&quot;&gt;&lt;a href=&quot;#一、模式动机&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="软件设计" scheme="https://geekxz.github.io/categories/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+      <category term="Java" scheme="https://geekxz.github.io/tags/Java/"/>
+    
+      <category term="设计模式" scheme="https://geekxz.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java面向对象设计之命令模式</title>
+    <link href="https://geekxz.github.io/2018/10/16/ruan-jian-she-ji/she-ji-mo-shi/java-mian-xiang-dui-xiang-she-ji-zhi-ming-ling-mo-shi/"/>
+    <id>https://geekxz.github.io/2018/10/16/ruan-jian-she-ji/she-ji-mo-shi/java-mian-xiang-dui-xiang-she-ji-zhi-ming-ling-mo-shi/</id>
+    <published>2018-10-16T14:40:00.000Z</published>
+    <updated>2018-11-05T03:12:27.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;一、模式动机&quot;&gt;&lt;a href=&quot;#一、模式动机&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="软件设计" scheme="https://geekxz.github.io/categories/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+      <category term="Java" scheme="https://geekxz.github.io/tags/Java/"/>
+    
+      <category term="设计模式" scheme="https://geekxz.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>代码整洁之道内容概要</title>
+    <link href="https://geekxz.github.io/2018/10/15/bian-cheng-zhi-dao/dai-ma-zheng-ji-zhi-dao-nei-rong-gai-yao/"/>
+    <id>https://geekxz.github.io/2018/10/15/bian-cheng-zhi-dao/dai-ma-zheng-ji-zhi-dao-nei-rong-gai-yao/</id>
+    <published>2018-10-15T14:48:00.000Z</published>
+    <updated>2018-11-05T03:12:27.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;读了代码整洁之道，觉得这本书写的很好，所以就将里面自己觉得很经典的内容记录下来，作为自己以后写代码的标准和准则。同时也为那些曾经困惑过的人一点参考吧！&lt;/p&gt;
+&lt;h2 id=&quot;一、在正式开始之前，我们先思考几个几个问题：&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="编程之道" scheme="https://geekxz.github.io/categories/%E7%BC%96%E7%A8%8B%E4%B9%8B%E9%81%93/"/>
+    
+    
+      <category term="整洁代码" scheme="https://geekxz.github.io/tags/%E6%95%B4%E6%B4%81%E4%BB%A3%E7%A0%81/"/>
+    
+      <category term="重构" scheme="https://geekxz.github.io/tags/%E9%87%8D%E6%9E%84/"/>
+    
+      <category term="测试" scheme="https://geekxz.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java面向对象设计之观察者模式</title>
+    <link href="https://geekxz.github.io/2018/10/14/ruan-jian-she-ji/she-ji-mo-shi/java-mian-xiang-dui-xiang-she-ji-zhi-guan-cha-zhe-mo-shi/"/>
+    <id>https://geekxz.github.io/2018/10/14/ruan-jian-she-ji/she-ji-mo-shi/java-mian-xiang-dui-xiang-she-ji-zhi-guan-cha-zhe-mo-shi/</id>
+    <published>2018-10-14T09:30:00.000Z</published>
+    <updated>2018-11-05T03:12:27.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;一、模式动机&quot;&gt;&lt;a href=&quot;#一、模式动机&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="软件设计" scheme="https://geekxz.github.io/categories/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+      <category term="Java" scheme="https://geekxz.github.io/tags/Java/"/>
+    
+      <category term="设计模式" scheme="https://geekxz.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>常用Bash命令整理之其他常用命令</title>
+    <link href="https://geekxz.github.io/2018/10/13/ruan-jian-gong-ju/chang-yong-bash-ming-ling-zheng-li-zhi-qi-ta-chang-yong-ming-ling/"/>
+    <id>https://geekxz.github.io/2018/10/13/ruan-jian-gong-ju/chang-yong-bash-ming-ling-zheng-li-zhi-qi-ta-chang-yong-ming-ling/</id>
+    <published>2018-10-13T10:15:00.000Z</published>
+    <updated>2018-11-05T03:12:27.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;1-hostname-查看主机名&quot;&gt;&lt;a href=&quot;#1-hostname-查看主机名&quot; class=&quot;headerlink&quot; title=&quot;1. hostname - 查看主机名&quot;&gt;&lt;/a&gt;1. hostname -
+        
+      
+    
+    </summary>
+    
+      <category term="软件工具" scheme="https://geekxz.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="Linux" scheme="https://geekxz.github.io/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>常用Bash命令整理之文本处理</title>
+    <link href="https://geekxz.github.io/2018/10/11/ruan-jian-gong-ju/chang-yong-bash-ming-ling-zheng-li-zhi-wen-ben-chu-li/"/>
+    <id>https://geekxz.github.io/2018/10/11/ruan-jian-gong-ju/chang-yong-bash-ming-ling-zheng-li-zhi-wen-ben-chu-li/</id>
+    <published>2018-10-11T14:05:00.000Z</published>
+    <updated>2018-11-05T03:12:27.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;1-sort-文本排序&quot;&gt;&lt;a href=&quot;#1-sort-文本排序&quot; class=&quot;headerlink&quot; title=&quot;1. sort - 文本排序&quot;&gt;&lt;/a&gt;1. sort -
+        
+      
+    
+    </summary>
+    
+      <category term="软件工具" scheme="https://geekxz.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="Linux" scheme="https://geekxz.github.io/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>常用Bash命令整理之操作文件和目录</title>
+    <link href="https://geekxz.github.io/2018/10/10/ruan-jian-gong-ju/chang-yong-bash-ming-ling-zheng-li-zhi-cao-zuo-wen-jian-he-mu-lu/"/>
+    <id>https://geekxz.github.io/2018/10/10/ruan-jian-gong-ju/chang-yong-bash-ming-ling-zheng-li-zhi-cao-zuo-wen-jian-he-mu-lu/</id>
+    <published>2018-10-10T15:10:00.000Z</published>
+    <updated>2018-11-05T03:12:27.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;1-touch-创建文件&quot;&gt;&lt;a href=&quot;#1-touch-创建文件&quot; class=&quot;headerlink&quot; title=&quot;1. touch - 创建文件&quot;&gt;&lt;/a&gt;1. touch -
+        
+      
+    
+    </summary>
+    
+      <category term="软件工具" scheme="https://geekxz.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="Linux" scheme="https://geekxz.github.io/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>常用Bash命令整理之查看文件和目录</title>
+    <link href="https://geekxz.github.io/2018/10/09/ruan-jian-gong-ju/chang-yong-bash-ming-ling-zheng-li-zhi-cha-kan-wen-jian-he-mu-lu/"/>
+    <id>https://geekxz.github.io/2018/10/09/ruan-jian-gong-ju/chang-yong-bash-ming-ling-zheng-li-zhi-cha-kan-wen-jian-he-mu-lu/</id>
+    <published>2018-10-09T14:45:00.000Z</published>
+    <updated>2018-11-05T03:12:27.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;1-ls-列出文件名和目录&quot;&gt;&lt;a href=&quot;#1-ls-列出文件名和目录&quot; class=&quot;headerlink&quot; title=&quot;1. ls - 列出文件名和目录&quot;&gt;&lt;/a&gt;1. ls -
+        
+      
+    
+    </summary>
+    
+      <category term="软件工具" scheme="https://geekxz.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="Linux" scheme="https://geekxz.github.io/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>轻量级滚动动画JavaScript库aos.js</title>
+    <link href="https://geekxz.github.io/2018/10/08/qian-duan/qing-liang-ji-gun-dong-dong-hua-javascript-ku-aos.js/"/>
+    <id>https://geekxz.github.io/2018/10/08/qian-duan/qing-liang-ji-gun-dong-dong-hua-javascript-ku-aos.js/</id>
+    <published>2018-10-08T14:30:00.000Z</published>
+    <updated>2018-11-05T03:12:27.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;一、简介&quot;&gt;&lt;a href=&quot;#一、简介&quot; class=&quot;headerlink&quot; title=&quot;一、简介&quot;&gt;&lt;/a&gt;一、简介&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;http://michalsnik.github.io/aos/&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="前端" scheme="https://geekxz.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="JavaScript" scheme="https://geekxz.github.io/tags/JavaScript/"/>
+    
+  </entry>
+  
+</feed>

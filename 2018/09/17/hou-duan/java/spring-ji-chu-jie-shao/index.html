@@ -1077,6 +1077,28 @@ public class AopMain {
     </div>
 
     
+        <link rel="stylesheet" href="/libs/gitalk/gitalk.css">
+<link rel="stylesheet" href="/css/my-gitalk.css">
+
+<div class="card gitalk-card" data-aos="fade-up">
+    <div id="gitalk-container" class="card-content"></div>
+</div>
+
+<script src="/libs/gitalk/gitalk.min.js"></script>
+<script>
+    let gitalk = new Gitalk({
+        clientID: 'b5c9a7fff1d11f60d196',
+        clientSecret: '0a7314e66b5a9ef708d80d6fc2376efd03c6deda',
+        repo: 'geekxz.github.io',
+        owner: 'geekxz',
+        admin: ["geekxz"],
+        id: '2018-09-17T22-32-00',
+        distractionFreeMode: false  // Facebook-like distraction free mode
+    });
+
+    gitalk.render('gitalk-container');
+</script>
+    
 
     
 
